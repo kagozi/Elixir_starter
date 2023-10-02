@@ -1,1 +1,1 @@
-# Elixir_starter
+# Functional Programming with Elixir
